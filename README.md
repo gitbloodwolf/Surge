@@ -90,7 +90,7 @@
 
 
 
-## 🛒 自用推荐
+## 🛒 自用机场
 
-- **MESL** ：[节点140+全球覆盖，拥有线路优质，有家宽节点、低倍率节点，部分节假日85折优惠](https://in.mesl.cloud/#/register?code=mN84D0Xt)
-- **DMIT** ：[采用AMD高性能处理器，线路有CN2GIA/CMIN2可供选择，提供免费的快照，不定时有活动款](https://www.dmit.io/aff.php?aff=10943)
+- **MESL** ：[节点160+，线路优质，有家宽和低倍率节点，节假日85折](https://in.mesl.cloud/#/register?code=mN84D0Xt)
+- **SNTP** ：[节点40+，附赠Emby影视服，日常有折扣](https://ncdn1.sntp.uk/auth/register?code=YhGvfBsP)
